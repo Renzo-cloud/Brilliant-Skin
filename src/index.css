@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --swiper-pagination-bullet-width: 30px;
+  --swiper-pagination-bullet-height: 2px;
+  --swiper-pagination-bullet-border-radius: 100px;
+}
+
+.testing {
+  background-image: url("src/assets/images/backgroundhome.png");
+}
