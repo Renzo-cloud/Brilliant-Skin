@@ -9,6 +9,9 @@ import backgroundhome from "./backgroundhome.png";
 import plant1 from "./plant1.png";
 import plant2 from "./plant2.png";
 import alchoholHandSanitizer from "./alchoholHandSanitizer.png";
+import backgroundAccount from "./backgroundAccount.png";
+import interestedResellersAc from "./interestedResellersAc.png";
+import Line from "./Line.png";
 
 export {
   brilliantSkinLogo,
@@ -22,4 +25,7 @@ export {
   plant1,
   plant2,
   alchoholHandSanitizer,
+  backgroundAccount,
+  interestedResellersAc,
+  Line,
 };

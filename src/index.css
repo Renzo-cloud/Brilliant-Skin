@@ -8,6 +8,16 @@
   --swiper-pagination-bullet-border-radius: 100px;
 }
 
-.testing {
+.homeBG {
   background-image: url("src/assets/images/backgroundhome.png");
+}
+
+.accountBG {
+  background-image: url("src/assets/images/backgroundAccount.png");
+}
+
+@layer components {
+  .card {
+    @apply rounded-sm shadow-lg;
+  }
 }
